@@ -1,0 +1,7 @@
+{
+  "id": "com.hadi.modern_combat_input",
+  "name": "Modern Combat Input",
+  "version": "1.0.0",
+  "author": "Hadi",
+  "description": "Swaps attack (B) and item-use (X) to give combat a more modern feel. HUD labels are swapped and the attack button is recoloured blue. (B) works the same in menus."
+}

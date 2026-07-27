@@ -1,0 +1,6 @@
+/build*/
+/cmake-build-*/
+/dusklight/
+.idea/
+.DS_Store
+build_and_install.bat
