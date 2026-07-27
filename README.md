@@ -4,7 +4,7 @@
 ### Description
 In Twilight Princess, attack & menu navigation is bound to (B) and item use is bound to (X). This works great on a GameCube controller, but it's a little awkward for people like me who grew up on Xbox or Playstation gamepads, where (X) is typically bound to attack and (B) is bound to menu navigation + some other gameplay features.
 
-Dusklight does have input configuration, you can swap (X) and (B), but now menu navigation is bound to (X), which is also awkward. Not to mention, the UI is still arranged with the GameCube in mind, so your mind is always translating from the prompts it sees on screen into the controls in front of you.
+Dusklight does have input configuration, you can swap (X) and (B), but that also binds menu navigation to (X), which is very awkward. Not to mention, the HUD is still arranged with the GameCube in mind, so you're always translating from the prompts you see on screen into the gamepad in front of you.
 
 Modern Combat Input solves that. Attack is now bound to (X), and item use & menu navigation are bound to (B). It updates the HUD to reflect this change, and recolors the attack button on the HUD to blue to match the standard Xbox color scheme.
 
@@ -12,3 +12,5 @@ Modern Combat Input solves that. Attack is now bound to (X), and item use & menu
 
 ### Installation
 Make sure you're on a version of Dusklight that supports mods- as of right now, you have to compile from source, but they should be available in the next numbered version. Once you've got that set up & have launched at least once, copy [modern_combat_input.dusk](https://github.com/HadiSoufi/dusklight-moderncombat/blob/main/modern_combat_input.dusk) into `%APPDATA%\TwilitRealm\Dusklight\mods\`. It will then appear in the Mod menu & be enabled by default.
+
+The above screenshots were taken with [Henriko Magnifico's XBOX + Playstation UI Buttons Addon](https://drive.google.com/drive/folders/1q_hQTdhCKRznyk02KChGjtpXoptIiyH8), which I *highly* recommend alongside this mod- [installation instructions here](https://www.henrikomagnifico.com/zelda-tp4k-pc-ports-guide). You do not have to use the full texture pack, just get the appropriate set for your gamepad from the downloaded zip file & install per the instructions.
