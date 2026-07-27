@@ -7,6 +7,6 @@ Dusklight does have input configuration, you can swap (X) and (B), but now menu 
 
 Modern Combat Input solves that. Attack is now bound to (X), and item use & menu navigation are bound to (B). It updates the HUD to reflect this change, and recolors the attack button on the HUD to blue to match the standard Xbox color scheme.
 
-![Before](https://github.com/HadiSoufi/dusklight-moderncombat/blob/main/images/moderncombatbefore.png) [After](https://github.com/HadiSoufi/dusklight-moderncombat/blob/main/images/moderncombatafter.png)
+![Before](https://github.com/HadiSoufi/dusklight-moderncombat/blob/main/images/moderncombatbefore.png) ![After](https://github.com/HadiSoufi/dusklight-moderncombat/blob/main/images/moderncombatafter.png)
 
 To install it, make sure you're on a version of Dusklight that supports mods- as of right now, you have to compile from source, but they should be available in the next numbered version. Once you've got that set up & have launched at least once, copy [modern_combat_input.dusk](https://github.com/HadiSoufi/dusklight-moderncombat/blob/main/modern_combat_input.dusk) into `%APPDATA%\TwilitRealm\Dusklight\mods\`.
